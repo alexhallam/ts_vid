@@ -50,6 +50,7 @@ df = (df.assign(ma_8 = df.rolling(window=8).Trips.mean())
 df.to_csv("./data/df_out.csv")
 
 palette = ['#ee1d52','#f2d803', '#69c9d0']
+#palette = ['#red','#yellow', 'blue']
 # plot with new features
 p = (
         ggplot(df, aes(x='ds')) +
