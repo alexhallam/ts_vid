@@ -1,3 +1,4 @@
 #install.packages("tsibble")
 library(tsibble)
-write.csv(tourism, "tourism.csv")
+library(readr)
+write_csv(tourism, "tourism.csv")
