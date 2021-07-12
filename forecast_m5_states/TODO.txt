@@ -1,0 +1,10 @@
+* EDA - plotting
+EDA - Grouped stats
+EDA - Variations
+EDA - Covariations
+Make Time Series Predictors
+Probabolistic Forecasting by Group
+Compare NGBoost vs benchmark
+Error metrics for accuracy
+Error metrics for uncertainty
+
